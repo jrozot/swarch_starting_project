@@ -10,13 +10,14 @@ Kanasta está pensada para pequeños y medianos comercios que quieren vender por
 
 ## Equipo
 
-**Equipo:** _[código del equipo]_
+**Equipo:** C 
 
 | Integrantes |
 |---|
 | Rene Alejandro Barrero Gonzalez |
 | Cristian Alejandro Sanabria Pinzon |
 | Juan Mateo Rozo Torres |
+| Daniel Esteban López Guaca|
 
 ## Sistema de software
 
